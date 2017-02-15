@@ -16,6 +16,7 @@ county_region,Region
 municipality,Commune
 shape_lores_svg,
 name,Name
+size,
 cumulative_immigration_surplus,"Immigration surplus, cumulative"
 cumulative_immigration_surplus_female,"Immigration surplus, cumulative, Feemale"
 cumulative_immigration_surplus_male,"Immigration surplus, cumulative, Male"

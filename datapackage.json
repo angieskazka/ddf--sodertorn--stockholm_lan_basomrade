@@ -695,6 +695,9 @@
 					},
 					{
 						"name": "is--basomrade"
+					},
+					{
+						"name": "size"
 					}
 				],
 				"primaryKey": "basomrade"
