@@ -1,0 +1,48 @@
+concept,name
+domain,Domain
+year,Year
+tag,Tag
+scales,
+color,
+rank,
+parent,
+tags,
+format,
+geo,Geo
+basomrade,Base area
+country,Country
+county,County
+county_region,Region
+municipality,Commune
+shape_lores_svg,
+name,Name
+cumulative_immigration_surplus,"Immigration surplus, cumulative"
+cumulative_immigration_surplus_female,"Immigration surplus, cumulative, Feemale"
+cumulative_immigration_surplus_male,"Immigration surplus, cumulative, Male"
+cumulative_immigration_surplus_employed_aged_20_64,"Immigration surplus: employed, cumulative"
+cumulative_immigration_surplus_employed_aged_20_64_female,"Immigration surplus: employed, cumulative, Feemale"
+cumulative_immigration_surplus_employed_aged_20_64_male,"Immigration surplus: employed, cumulative, Male"
+cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64," Immigration surplus: highly educated, cumulative"
+cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64_female," Immigration surplus: highly educated, cumulative, Feemale"
+cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64_male," Immigration surplus: highly educated, cumulative, Male"
+employment_rate_aged_20_64,Employment rate
+employment_rate_aged_20_64_female,"Employment rate, Feemale"
+employment_rate_aged_20_64_male,"Employment rate, Male"
+higher_education_min_3_years_percent_of_population_aged_25_64,"Higher education rate"
+higher_education_min_3_years_percent_of_population_aged_25_64_female,"Higher education rate, Feemale"
+higher_education_min_3_years_percent_of_population_aged_25_64_male,"Higher education rate, Male"
+immigration_surplus,"Immigration surplus"
+immigration_surplus_female,"Immigration surplus, Feemale"
+immigration_surplus_male,"Immigration surplus, Male"
+immigration_surplus_employed_aged_20_64,"Immigration surplus: employed"
+immigration_surplus_employed_aged_20_64_female,"Immigration surplus: employed, Feemale"
+immigration_surplus_employed_aged_20_64_male,"Immigration surplus: employed, Male"
+immigration_surplus_min_3_years_of_higher_education_aged_25_64,"Immigration surplus: highly educated"
+immigration_surplus_min_3_years_of_higher_education_aged_25_64_female,"Immigration surplus: highly educated, Feemale"
+immigration_surplus_min_3_years_of_higher_education_aged_25_64_male,"Immigration surplus: highly educated, Male"
+mean_income_aged_lt_20,"Average income"
+mean_income_aged_lt_20_female,"Average income, Feemale"
+mean_income_aged_lt_20_male,"Average income, Male"
+population_20xx_12_31,"Population"
+population_20xx_12_31_female,"Population, Female"
+population_20xx_12_31_male,"Population, Male"

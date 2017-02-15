@@ -4,10 +4,15 @@
 	"description": "",
 	"version": "0.0.1",
 	"language": {
-		"id": "en",
-		"name": "English"
-	},
-	"translations": [],
+        "id": "se",
+        "name": "Svenska"
+    },
+    "translations": [
+        {
+            "id": "en",
+            "name": "English"
+        }
+    ],
 	"license": "",
 	"author": "",
 	"resources": [
