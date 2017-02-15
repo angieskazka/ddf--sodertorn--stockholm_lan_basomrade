@@ -1,6 +1,6 @@
 {
-	"name": "output",
-	"title": "output",
+	"name": "ddf--sodertorn--stockholm_lan_basomrade",
+	"title": "ddf--sodertorn--stockholm_lan_basomrade",
 	"description": "",
 	"version": "0.0.1",
 	"language": {
@@ -30,6 +30,15 @@
 					},
 					{
 						"name": "tags"
+					},
+					{
+						"name": "scales"
+					},
+					{
+						"name": "format"
+					},
+					{
+						"name": "color"
 					}
 				],
 				"primaryKey": "concept"
@@ -762,6 +771,12 @@
 					},
 					{
 						"name": "is--municipality"
+					},
+					{
+						"name": "rank"
+					},
+					{
+						"name": "shape_lores_svg"
 					}
 				],
 				"primaryKey": "municipality"
