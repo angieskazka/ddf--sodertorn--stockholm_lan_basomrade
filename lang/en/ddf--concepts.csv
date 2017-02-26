@@ -16,6 +16,7 @@ county_region,Region
 municipality,Commune
 shape_lores_svg,
 name,Name
+baskod2010,Base area code 2010
 size,
 cumulative_immigration_surplus,"Net migration, cumulative"
 cumulative_immigration_surplus_female,"Net migration, cumulative, Feemale"
