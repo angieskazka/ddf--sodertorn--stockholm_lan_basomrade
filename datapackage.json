@@ -886,6 +886,9 @@
                         "name": "county"
                     },
                     {
+                        "name": "map_id"
+                    },
+                    {
                         "name": "is--municipality"
                     },
                     {
