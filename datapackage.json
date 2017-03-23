@@ -38,6 +38,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--cumulative_immigration_surplus--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--cumulative_immigration_surplus--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "cumulative_immigration_surplus"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--cumulative_immigration_surplus--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--cumulative_immigration_surplus--by--gender--basomrade--year",
             "schema": {
@@ -63,6 +84,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--cumulative_immigration_surplus_employed_aged_20_64--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--cumulative_immigration_surplus_employed_aged_20_64--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "cumulative_immigration_surplus_employed_aged_20_64"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--cumulative_immigration_surplus_employed_aged_20_64--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--cumulative_immigration_surplus_employed_aged_20_64--by--gender--basomrade--year",
             "schema": {
@@ -88,6 +130,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--gender--basomrade--year",
             "schema": {
@@ -113,6 +176,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--employment_rate_aged_20_64--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--employment_rate_aged_20_64--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "employment_rate_aged_20_64"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--employment_rate_aged_20_64--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--employment_rate_aged_20_64--by--gender--basomrade--year",
             "schema": {
@@ -138,6 +222,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--higher_education_min_3_years_percent_of_population_aged_25_64--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--higher_education_min_3_years_percent_of_population_aged_25_64--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "higher_education_min_3_years_percent_of_population_aged_25_64"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--higher_education_min_3_years_percent_of_population_aged_25_64--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--higher_education_min_3_years_percent_of_population_aged_25_64--by--gender--basomrade--year",
             "schema": {
@@ -163,6 +268,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--immigration_surplus--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--immigration_surplus--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "immigration_surplus"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--immigration_surplus--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--immigration_surplus--by--gender--basomrade--year",
             "schema": {
@@ -188,6 +314,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--immigration_surplus_employed_aged_20_64--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--immigration_surplus_employed_aged_20_64--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "immigration_surplus_employed_aged_20_64"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--immigration_surplus_employed_aged_20_64--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--immigration_surplus_employed_aged_20_64--by--gender--basomrade--year",
             "schema": {
@@ -213,6 +360,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "immigration_surplus_min_3_years_of_higher_education_aged_25_64"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--immigration_surplus_min_3_years_of_higher_education_aged_25_64--by--gender--basomrade--year",
             "schema": {
@@ -293,6 +461,78 @@
             }
         },
         {
+	    "path": "ddf--datapoints--indicators--by--municipality--year.csv",
+	    "name": "ddf--datapoints--indicators--by--municipality--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "municipality"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "cumulative_immigration_surplus"
+		    },
+		    {
+			"name": "cumulative_immigration_surplus_employed_aged_20_64"
+		    },
+		    {
+			"name": "cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64"
+		    },
+		    {
+			"name": "employment_rate_aged_20_64"
+		    },
+		    {
+			"name": "higher_education_min_3_years_percent_of_population_aged_25_64"
+		    },
+		    {
+			"name": "immigration_surplus"
+		    },
+		    {
+			"name": "immigration_surplus_employed_aged_20_64"
+		    },
+		    {
+			"name": "immigration_surplus_min_3_years_of_higher_education_aged_25_64"
+		    },
+		    {
+			"name": "mean_income_aged_lt_20"
+		    },
+		    {
+			"name": "median_income_aged_lt_20"
+		    },
+		    {
+			"name": "population_20xx_12_31"
+		    }
+		],
+		"primaryKey": [
+		    "municipality",
+		    "year"
+		]
+	    }
+	},
+	{
+	    "path": "ddf--datapoints--mean_income_aged_lt_20--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--mean_income_aged_lt_20--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "mean_income_aged_lt_20"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--mean_income_aged_lt_20--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--mean_income_aged_lt_20--by--gender--basomrade--year",
             "schema": {
@@ -318,6 +558,27 @@
             }
         },
         {
+	    "path": "ddf--datapoints--population_20xx_12_31--by--basomrade--year.csv",
+	    "name": "ddf--datapoints--population_20xx_12_31--by--basomrade--year",
+	    "schema": {
+		"fields": [
+		    {
+			"name": "basomrade"
+		    },
+		    {
+			"name": "year"
+		    },
+		    {
+			"name": "population_20xx_12_31"
+		    }
+		],
+		"primaryKey": [
+		    "basomrade",
+		    "year"
+		]
+	    }
+	},
+	{
             "path": "ddf--datapoints--population_20xx_12_31--by--gender--basomrade--year.csv",
             "name": "ddf--datapoints--population_20xx_12_31--by--gender--basomrade--year",
             "schema": {
