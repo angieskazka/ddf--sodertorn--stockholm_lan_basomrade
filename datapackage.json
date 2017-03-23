@@ -695,8 +695,8 @@
             }
         },
         {
-            "path": "ddf--datapoins--indicators--by--municipality--year.csv",
-            "name": "ddf--datapoins--indicators--by--municipality--year.csv",
+            "path": "ddf--datapoints--indicators--by--municipality--year.csv",
+            "name": "ddf--datapoints--indicators--by--municipality--year.csv",
             "schema": {
                 "fields": [
                     {
