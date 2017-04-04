@@ -24,7 +24,7 @@ cumulative_immigration_surplus,"In- och utflyttade, Kumulativ antal",measure,,_r
 cumulative_immigration_surplus_employed_aged_20_64,"In- och utflyttade med arbete, Kumulativ antal",measure,,_root,,,
 cumulative_immigration_surplus_min_3_years_of_higher_education_aged_25_64,"In- och utflyttade med lång högskoleutbildning, Kumulativ antal",measure,,_root,,,
 employment_rate_aged_20_64,Andel förvärvsarbetande,measure,,_root,,share,
-higher_education_min_3_years_percent_of_population_aged_25_64,Andel med lång högskoleutbildning,measure,,_root,,share,
+higher_education_min_3_years_percent_of_population_aged_25_64,Andel med lång högskoleutbildning,measure,,_root,,share,"{""palette"": {""0"": ""#2547f4"",""5"": ""#259df4"",""10"": ""#25f4f4"",""15"": ""#25f49d"",""20"": ""#25f447"",""25"": ""#59f425"",""30"": ""#aff425"",""35"": ""#f4e225"",""40"": ""#f48c25"",""45"": ""#f43625"",""50"": ""#f4256a"",""55"": ""#f425c0"",""60"": ""#d125f4"",""65"": ""#7b25f4"",""70"": ""#6a25f4"",""100"": ""#6a25f4""}}"
 immigration_surplus,"In- och utflyttade, antal",measure,,noncommulative_integration,,,
 immigration_surplus_employed_aged_20_64,"In- och utflyttade med arbete, antal",measure,,noncommulative_integration,,,
 immigration_surplus_min_3_years_of_higher_education_aged_25_64,"In- och utflyttade med lång högskoleutbildning, antal",measure,,noncommulative_integration,,,
